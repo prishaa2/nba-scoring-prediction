@@ -66,7 +66,7 @@ The final model used:
 Mean Absolute Error (MAE):
 
 ```text
-~2.06 PPG
+~1.99 PPG
 ```
 
 ### Random Forest Regression
@@ -74,7 +74,7 @@ Mean Absolute Error (MAE):
 Mean Absolute Error (MAE):
 
 ```text
-~2.40 PPG
+~2.24 PPG
 ```
 
 Linear Regression produced the best overall performance and was selected
