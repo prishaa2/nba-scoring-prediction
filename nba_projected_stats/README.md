@@ -95,19 +95,19 @@ as the final model.
 
 ### Feature Importance
 
-*(Insert screenshot here)*
+![Feature Importance](images/feature_importance.png)
 
 ### Actual vs Predicted PPG
 
-*(Insert screenshot here)*
+![Actual vs Predicted](images/actual_vs_predicted.png)
 
 ### Largest Positive Prediction Errors
 
-*(Insert screenshot here)*
+![Largest Positive Prediction Errors](images/positive_errors.png)
 
 ### Largest Negative Prediction Errors
 
-*(Insert screenshot here)*
+![Largest Negative Prediction Errors](images/negative_errors.png)
 
 ---
 
